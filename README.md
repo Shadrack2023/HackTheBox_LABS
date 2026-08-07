@@ -1,23 +1,25 @@
 # Hack The Box — Walkthroughs
 
-Personal writeups and full walkthroughs for Hack The Box machines (retired & seasonal). Each PDF documents recon, exploitation, privilege escalation and lessons learned.
+Personal writeups for Hack The Box machines (retired & seasonal). Each folder renders as a full walkthrough — recon, exploitation, privilege escalation — with screenshots inline (no PDF needed). The original PDF is kept in each folder for download.
 
-## Machines
+**14 writeups**
 
-- **CAP machine HTB** — `CAP-machine-HTB.pdf`
-- **Conversor Sn9 HTB** — `Conversor-Sn9-HTB.pdf`
-- **Expressway Sn9 HTB** — `Expressway-Sn9-HTB .pdf`
-- **Fluffy Sn8 HTB** — `Fluffy-Sn8-HTB.pdf`
-- **Getting Started With HTB** — `Getting-Started-With-HTB.pdf`
-- **Nmap HTB** — `Nmap-HTB.pdf`
-- **Outbound htb Sn8** — `Outbound-htb-Sn8.pdf`
-- **Puppy.htb** — `Puppy.htb.pdf`
-- **SQL injection HTB** — `SQL-injection-HTB.pdf`
-- **Soupedecode 01** — `Soupedecode 01.pdf`
-- **Tombwatcher Sn8 HTB** — `Tombwatcher-Sn8-HTB.pdf`
-- **Voleur HTB Sn8** — `Voleur-HTB-Sn8.pdf`
-- **WifiNeticTwo** — `WifiNeticTwo.pdf`
-- **permx seasonal machine** — `permx-seasonal-machine.pdf`
+## Index
+
+- **[cap-HTB](CAP/)**
+- **[<u>CONVERSER SEASON 9 - HACKTHEBOX</u>](Conversor/)**
+- **[<u>Expressway - SEASON 9 MACHINE</u>](Expressway/)**
+- **[SEASON 8: Active Directory → Fluffy](Fluffy/)**
+- **[shujaa](GettingStartedWith/)**
+- **[NETWORKING](Nmap/)**
+- **[<u>OUTBOUND MACHINE - Easy</u>](Outbound/)**
+- **[permx-seasonal-machine](Permx/)**
+- **[<u>PUPPY MACHINE - HACK THE BOX SEASON 8</u>](Puppy/)**
+- **[SQL INJECTION FUNDAMENTALS](SQLInjection/)**
+- **[<u>SOUPEDECODE 01 - TRYHACKME</u>](Soupedecode01/)**
+- **[<u>TOMBWATCHER SEASON 8 - HACKTHEBOX</u>](Tombwatcher/)**
+- **[<u>VOLEUR MACHINE - HACKTHEBOX - SEASON 8</u>](Voleur/)**
+- **[WifiNeticTwo](WifiNeticTwo/)**
 
 ---
 *Maintained by [Shadrack Otieno](https://github.com/Shadrack2023) — Penetration Tester / Offensive Security Analyst.*
